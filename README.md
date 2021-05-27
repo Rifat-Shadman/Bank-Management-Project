@@ -8,4 +8,5 @@ Download the .zip folder. Extract it in your desired destination. Then open the 
 Simply run the program.
 
 Default officer id: "officer" (without the quotes)
+
 Default officer password: "password"
